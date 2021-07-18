@@ -5,6 +5,9 @@
     font-family: sans-serif;
     
 }
+body{
+    overflow:hidden;
+}
 .score{
     color:white;
     position: fixed;
